@@ -1,1 +1,18 @@
-/* Empty. Add your own CSS if you like */
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.form-data{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.label{
+	display: flex;
+	flex-direction: row;
+}
+.input-lg{
+	width: 100vw;
+}
